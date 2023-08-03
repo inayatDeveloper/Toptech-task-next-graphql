@@ -22,4 +22,5 @@ This should have a single page component with a table view. This table should ha
 # How we run ? 
 1) Please make sure to run backend at directory with command "node app.js".
 2) Note the port that run backend and change at frontend inside .env file according to it.
-3) Run through command "npm run dev: frontend and check it in browser. 
+3) Run through command "npm run dev: frontend and check it in browser.
+4) <img width="944" alt="image" src="https://github.com/inayatDeveloper/Toptech-task-next-graphql/assets/22600231/972b141d-68c0-4de6-88da-f18994157591">
